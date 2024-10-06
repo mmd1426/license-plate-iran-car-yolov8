@@ -1,23 +1,18 @@
 # License-Plate-Iran-Car-Yolov8
 
-## معرفی
-این پروژه به منظور شناسایی و تشخیص پلاک خودروهای ایرانی با استفاده از تکنیک‌های یادگیری عمیق و مدل YOLOv8 طراحی شده است. هدف اصلی این پروژه، تسهیل فرآیند تشخیص پلاک خودروها برای کاربردهای مختلف مانند نظارت ترافیکی و سیستم‌های پارکینگ هوشمند است.
+## Introduction
+This project is designed for the detection and recognition of Iranian car license plates using deep learning techniques and the YOLOv8 model. The primary goal of this project is to streamline the process of detecting car license plates for various applications, such as traffic monitoring and smart parking systems.
 
-## ویژگی‌ها
-- **استفاده از YOLOv8 برای تشخیص پلاک خودرو**: تشخیص و شناسایی پلاک خودروهای ایرانی در تصاویر.
-- **پیش‌پردازش تصاویر**: شامل مراحل آماده‌سازی تصاویر مانند تغییر اندازه و بهبود کیفیت تصویر برای بهینه‌سازی عملکرد مدل.
-- **دقت بالا**: مدل به گونه‌ای آموزش داده شده که بتواند پلاک خودروهای مختلف را با دقت بالا شناسایی کند.
+## Features
+- **YOLOv8 for License Plate Detection**: Detect and recognize Iranian car license plates in images.
+- **Image Preprocessing**: Includes steps like resizing and enhancing image quality to optimize model performance.
+- **High Accuracy**: The model is trained to accurately detect license plates from various cars.
 
-## مدل
-- از **YOLOv8** برای تشخیص پلاک خودرو استفاده شده است.
-- مدل با استفاده از تصاویر پلاک‌های خودروهای ایرانی آموزش دیده و بهینه‌سازی شده است.
+## Model
+- The **YOLOv8** model is used for car license plate detection.
+- The model has been trained and fine-tuned on images of Iranian car license plates.
 
-## بهبودهای آینده
-- پشتیبانی از تشخیص پلاک در فیلم‌های ویدئویی.
-- بهینه‌سازی مدل برای استفاده در دستگاه‌های موبایل.
+## Contribution
+Your contributions are welcome! Feel free to report issues or submit pull requests to improve the project.
 
-## مشارکت
-مشارکت شما خوش‌آمد است! برای بهبود و رفع اشکالات، می‌توانید مشکلات را مطرح کنید یا درخواست‌های تغییر (Pull Requests) ارسال کنید.
-
-
-![Digtal-clock](https://github.com/MMD1426/License-Plate-Iran-Car-Yolov8/blob/main/Screenshot.png)
+![Digital-clock](https://github.com/MMD1426/License-Plate-Iran-Car-Yolov8/blob/main/Screenshot.png)
