@@ -17,4 +17,4 @@ Your contributions are welcome! Feel free to report issues or submit pull reques
 
 ![Digital-clock](https://github.com/MMD1426/License-Plate-Iran-Car-Yolov8/blob/main/Screenshot.png)
 ##
-![Digital-clock](https://github.com/MMD1426/License-Plate-Iran-Car-Yolov8/blob/main/Screenshot.png)
+![Digital-clock](https://github.com/MMD1426/License-Plate-Iran-Car-Yolov8/blob/main/Screenshot2.png)
