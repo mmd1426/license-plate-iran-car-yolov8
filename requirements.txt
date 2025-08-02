@@ -1,0 +1,7 @@
+sqlite3
+ultralytics
+opencv-python
+Pillow
+arabic_reshaper
+python-bidi
+numpy
