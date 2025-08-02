@@ -15,6 +15,6 @@ This project is designed for the detection and recognition of Iranian car licens
 ## Contribution
 Your contributions are welcome! Feel free to report issues or submit pull requests to improve the project.
 
-![Digital-clock](https://github.com/mmd1426/license-plate-iran-car-yolov8/blob/main/output-1.png)
+![Digital-clock](src/output/output-1.png)
 ##
-![Digital-clock](https://github.com/mmd1426/license-plate-iran-car-yolov8/blob/main/output-2.png)
+![Digital-clock](src/output/output-2.png)
